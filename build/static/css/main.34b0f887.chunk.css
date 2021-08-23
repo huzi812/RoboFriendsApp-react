@@ -1,0 +1,2 @@
+*{padding:0;margin:0;box-sizing:border-box}.player{height:20vh;display:flex;align-items:center;justify-content:space-between;flex-direction:column}.time-control{width:50%;display:flex}.time-control input{width:100%;padding:1rem 2rem}.time-control p{padding:1rem}.play-control{display:flex;justify-content:space-between;align-items:center;padding:1rem;width:30%}.play-control svg{cursor:pointer}.song-container{height:60vh;display:flex;align-items:center;flex-direction:column;justify-content:space-between}
+/*# sourceMappingURL=main.34b0f887.chunk.css.map */
