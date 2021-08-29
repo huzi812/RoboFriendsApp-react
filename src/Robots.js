@@ -1,4 +1,4 @@
-export  const  robots = [
+export const robots =[
     {
         id: 1,
         name: 'huzaifa',
@@ -6,42 +6,42 @@ export  const  robots = [
     },
     {
         id: 2,
-        name: 'huxi',
-        email: 'huxx22@SarList.com'
+        name: 'amad',
+        email: 'huxx22@example.com'
     },
     {
         id: 3,
-        name: 'hu',
-        email: 'huxx22@SarList.com'
+        name: 'maaz',
+        email: 'huzaif@example.com'
     },
     {
         id: 4,
-        name: 'huza',
-        email: 'huxx22@SarList.com'
+        name: 'Saif',
+        email: 'uzi@example.com'
     },
     {
         id: 5,
-        name: 'huzaif',
-        email: 'huxx22@SarList.com'
+        name: 'Asmat',
+        email: 'huzaii@example.com'
     },
     {
         id: 6,
-        name: 'huzai',
-        email: 'huxx22@SarList.com'
+        name: 'huzaing',
+        email: 'huzaing@example.com'
     },
     {
         id: 9,
-        name: 'huzaifa',
+        name: 'Andrei',
         email: 'huxx22@SarList.com'
     },
     {
         id: 7,
-        name: 'huxi',
+        name: 'Yiha',
         email: 'huxx22@SarList.com'
     },
     {
         id: 8,
-        name: 'hu',
+        name: 'Yuri',
         email: 'huxx22@SarList.com'
     },
 ]
